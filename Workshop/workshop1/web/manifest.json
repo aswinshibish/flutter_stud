@@ -1,6 +1,6 @@
 {
-    "name": "workshop1",
-    "short_name": "workshop1",
+    "name": "workshop3",
+    "short_name": "workshop3",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
