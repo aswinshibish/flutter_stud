@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "682927267141",
-    "project_id": "otptest-c1f78",
-    "storage_bucket": "otptest-c1f78.appspot.com"
+    "project_number": "432998263823",
+    "project_id": "noone456-38b53",
+    "storage_bucket": "noone456-38b53.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:682927267141:android:704a5c47d6e7e44f3b722c",
+        "mobilesdk_app_id": "1:432998263823:android:68182128ca931c2160c77a",
         "android_client_info": {
-          "package_name": "com.example.workshop3"
+          "package_name": "com.example.none34"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAcB0maJLBLMeVHtgvxPTZDlg8ME652YeM"
+          "current_key": "AIzaSyBzJIIkGccump9I3MuQ37c9v3_6c9liPIE"
         }
       ],
       "services": {
