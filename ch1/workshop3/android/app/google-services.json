@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "56784976325",
+    "firebase_url": "https://clickz-705aa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "clickz-705aa",
+    "storage_bucket": "clickz-705aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56784976325:android:a6a1b46b31395b236033ac",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsi1lRBdzCH0Qz_0NrxbpQz0_1g9TaE5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
